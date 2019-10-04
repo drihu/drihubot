@@ -1,0 +1,12 @@
+{
+  "name": "drihubot",
+  "version": "0.1.0",
+  "description": "Facebook Messenger Chatbot with Python and Flask",
+  "main": "none",
+  "scripts": {
+    "env": "cp .env.example .env",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Huamani <ricardohuamanip@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/drihu/.local/share/virtualenvs/drihubot-5v3k9gM8/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
