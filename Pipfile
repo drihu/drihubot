@@ -10,3 +10,6 @@ pylint = "*"
 flask = "*"
 python-dotenv = "*"
 requests = "*"
+
+[requires]
+python_version = "3.7.4"
